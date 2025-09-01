@@ -8,7 +8,7 @@ This is my [IA340](https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&co
 
 ## content
 
-1. lab1
+1. [lab1](https://github.com/demo-student-jmu/IA-340-2/blob/main/lab1.ipynb)
 2. lab2
 3. lab3
 
